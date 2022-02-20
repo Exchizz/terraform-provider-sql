@@ -6,7 +6,8 @@ description: |-
   
 ---
 
-# sql Provider
+# sql Provider (fork from https://github.com/paultyng/terraform-provider-sql)
+I didn't write this provider!
 
 
 
